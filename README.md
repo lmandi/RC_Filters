@@ -28,7 +28,7 @@ This project is licensed under the MIT License.
 ## Results
 
 ### High-Pass Filter Output
-![High-Pass Filter Output](images/high_pass_filter_output.png)
+![High-Pass Filter Output](images/high_pass.png)
 
 ### Low-Pass Filter Output
-![Low-Pass Filter Output](images/low_pass_filter_output.png)
+![Low-Pass Filter Output](images/low_pass.png)
