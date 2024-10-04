@@ -12,8 +12,8 @@ This project implements two passive RC filters and studies their behavior. Both 
 ### Signal Specifications
 
 - **Input Frequencies**: 100 Hz and 1 kHz (but can be modified accordingly)
-- **Signal Amplitude**: 5 V peak-to-peak (2.5 V amplitude)
-- **Sampling Frequency**: 50 kHz (should be increased proportionally with the frequencies to yield better results)
+- **Signal Amplitude**: 5 Vpp (2.5 V amplitude)
+- **Sampling Frequency**: 50 kHz
 
 ## Usage
 
